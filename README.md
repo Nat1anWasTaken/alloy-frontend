@@ -1,2 +1,2 @@
 # Alloy Frontend
-Frontend for the Alloy Project.
+Frontend for the alloy project.
